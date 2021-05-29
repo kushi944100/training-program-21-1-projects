@@ -2,16 +2,16 @@
 
 #### Mentor
 
-> 
+> Lourde Mary
 
 #### Members
 
 ||Name|
 |-|-|
-|1||
-|2||
-|3||
-|4||
+|1|Jayamani T|
+|2|Amrutha K V|
+|3|Thejaswini A|
+|4|Sagar Dhandare|
 
 #### About Project 
 
